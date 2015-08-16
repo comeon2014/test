@@ -1,3 +1,4 @@
-*.QQ
-vi
+*.pyc
+!a.txt
+
 
